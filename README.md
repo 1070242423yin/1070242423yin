@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1070242423yin
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning both languages and platforms
+- 👀 I’m interested in game programing
+- 🌱 I’m currently learning both languages and developing platforms
 - 💞️ I’m looking to collaborate on programing
 - 📫 You can reach me through 1070242423@qq.com
 
